@@ -1,0 +1,7 @@
+Name          :Arunkumar;
+Father's Name : Murugan;
+Date of Birth :04/07/1990;
+Home Town     :Krishnagiri;
+Qualification :B.E (computer science);
+Company       :Photon Infotec;
+Designation   : Anjular js Developer;
